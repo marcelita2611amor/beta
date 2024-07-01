@@ -1,0 +1,37 @@
+color:darkblue;
+font-family:courier;
+font-size:100% ;
+margin:50 px ;
+text-align: center;}
+
+h1{ color:blue;
+font-family:monospace; 
+font-size: 300 px;
+text-align:center ;
+border: 10px royalblue;
+}
+#parrafo{ color:darkblue;}
+
+body{ background-color:lightpink;}
+
+nav{
+	margin-top: 10px;
+}
+nav ul{
+	list-style: none;
+	
+
+}
+nav ul li{
+	display: inline;
+	margin-right: 165px;
+}
+nav ul li a{
+	color: black;
+	font-size: 17px;
+	text-decoration:none ;
+	transition: background-color 0.3s ease;
+}
+nav ul li a:hover{
+	background-color: palevioletred;
+}
